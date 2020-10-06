@@ -596,6 +596,10 @@ header h1 {
 		top: 0;
 		left: 0;
 	}
+	
+	#contact {
+		overflow-h:hidden;
+	}
 
 	.contact-container-top {
 		flex-direction: column;
@@ -784,6 +788,10 @@ header h1 {
 		display: block;
 		top: 0;
 		left: 0;
+	}
+	
+	#contact {
+		overflow-x:hidden;
 	}
 
 	.contact-container-top {
