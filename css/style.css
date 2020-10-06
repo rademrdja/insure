@@ -785,7 +785,7 @@ header h1 {
 	}
 
 	.footer-pattern-mobile {
-		display: block;
+		display: none;
 		top: 0;
 		left: 0;
 	}
